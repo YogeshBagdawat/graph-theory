@@ -1,4 +1,4 @@
-package com.get.dijkstras;
+package com.gt.dijkstras;
 
 public class Edge {
 
